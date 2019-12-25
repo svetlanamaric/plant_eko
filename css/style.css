@@ -1,0 +1,67 @@
+body {background: #fff; margin: auto;  font-family: "Open Sans";}
+.wreaper {width: 100%;}
+.header {width: 100%; height: 615px; background-image: url(../../struktura/images/top-background.jpg);}
+.header1 {max-width: 1200px; margin: auto;}
+.logo {float: left; margin-top: 10px;}
+.list-button {float: right; margin-top: 50px;}
+.list ul {list-style: none;}
+.list ul.list-button li {display: inline-block; font-size: 16px;}
+.list ul.list-button li a {text-decoration: none; color: #7f7d7e; padding: 0 10px;}
+.button {background-color: #93c34b; text-decoration: none; text-transform: uppercase; color: #fff; margin: 0 0 0 40px; font-size: 16px; height: 35px; width: 150px; border-radius: 5px; box-shadow: 0px 3px #65a123;}
+.header2 {max-width: 1200px; margin: auto;}
+.logo-text {float: left; margin-top: 15px;}
+.logo-text ul{list-style: none;}
+.logo-text p {color: #fff; font-size: 50px; margin-left: 45px;}
+.container {max-width: 1200px; margin: auto; background-image: url(../images/krema.jpg); height: 600px; padding-top: 40px;}
+.text p {color: #7f7d7e; font-size: 25px; text-align: center;}
+.nabrajanje {margin: 0 0 0 190px;}
+.nabrajanje ul {list-style: none; display: inline-block;}
+.nabrajanje ul li {margin: 0 0 20px 0;}
+.nabrajanje ul.nabrajanje2 li {font-size: 19px;}
+.nabrajanje ul.nabrajanje2 li p {text-decoration: none; text-transform: uppercase; color:#7f7d7e; padding: 2px;}
+
+.container-paragraph {width: 100%; background-image: url(../images/three-background.jpg); height: 300px;}
+.paragraph {max-width: 1200px; margin: auto;}
+.container-paragraph p {text-align: center; color: #fff; font-size: 30px; margin-top: -115px; padding: 45px; line-height: 170%;}
+
+.tripple {width: 100%; margin: 30px 0 0 0;}
+.all {max-width: 1200px; margin: auto;  text-align: center;}
+.tripple .all ul {list-style: none; color: #7f7d7e;}
+.all .first {display: inline-block;}
+.all .second {display: inline-block; vertical-align: top;}
+.all .third {display: inline-block;}
+
+.container-prijava {width: 100%; background-image: url(../images/three-background.jpg); height: 270px; padding-top: 45px; background-size: cover;}
+.prijava {max-width: 1200px; margin: auto; }
+.prijava ul {list-style: none; color: #fff; font-size: 30px; text-align: center;}
+.button-prijava {background-color: #93c34b; text-decoration: none; text-transform: uppercase; color: #fff; margin: 0 0 0 40px; font-size: 16px; height: 40px; width: 200px; border-radius: 5px; box-shadow: 0px 6px #65a123; }
+.popust p {padding: 30px;}
+
+.container-prazan {width: 100%; height: 700px;}
+.prazan {border: 2px solid #93c34b; border-radius: 5px; max-width: 1200px; height: 615px; margin: 100px 150px;}
+
+.footer-container {width: 100%; height: 580px; background-image: url(../../struktura/images/three-background.jpg); background-size: cover;}
+.footer1 {max-width: 1200px; margin: auto; text-align: center;}
+.form {height: 30px; width: 600px; background: white; margin: 10px; border-radius: 8px; box-shadow: 0px 3px grey; color: #7f7d7e; 
+       padding-left: 15px;}
+.poruci p {color: #fff; padding-top: 35px; font-size: 25px;}
+.popuni1 {max-height: 1200px; text-align: center;}
+.popuni1 ul {list-style: none; margin: 5px;}
+.formspec {height: 40px; background: white; border-radius: 8px; box-shadow: 0px 3px grey; margin: 0px 10px; color: #7f7d7e; padding-left: 15px; height: 30px;}
+.popuni1 ul.popuni2 li {display: inline-block;}
+.form3 {float: left; width: 147px; }
+.form4{float: right; width: 409px; margin-right: 50px;}
+
+.klikni {max-height: 1200px; text-align: center;}
+.klikni ul {list-style: none; margin: 5px;}
+.button-poruci {background-color: #93c34b; text-decoration: none; color: #fff; margin-left: 290px; font-size: 18px; height: 45px; width: 400px; border-radius: 5px; box-shadow: 0px 3px #65a123;  display: inline-block; float: left; margin-top: 10px; }
+.klikni p { color: white; font-size: 25px; text-align: center; margin-top: 10px; display: inline-block; float: right; margin-right: 280px;}
+.klikni {max-width: 1200px; text-align: center;}
+
+.footer2 {width: 100%; margin: auto; height: 105px; opacity: 0.4; background-color:#000000;  margin-top: 110px;}
+.footer-2 {max-width: 1200px;padding-top: 5px;}
+.eko {text-align: left; margin-left: 50px; padding-top: 30px;}
+.prijava {text-align: right; margin-left: 50px; margin-top: -45px;}
+
+.button-prijavi {background-color: #93c34b; text-decoration: none; text-transform: uppercase; color: #fff; font-size: 16px; height: 35px;
+    width: 150px; border-radius: 5px; box-shadow: 0px 3px #65a123; }
